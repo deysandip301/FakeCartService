@@ -7,3 +7,4 @@ step 3 : run the application on that software
 step 4 : use any other application like postman to request different methods that you need 
 step 5 : give the request and get your desired data from the server
 
+All the demo test pictures are available on the folder DemoTests
